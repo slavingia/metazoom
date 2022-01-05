@@ -4,18 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/LICENSE</key>
+		<data>
+		xgIUMOcRou/OhDP1n9d3DETcPZ0=
+		</data>
 		<key>Resources/README.md</key>
 		<data>
-		aWOGd6Yp5LATuk/M/Afwv9atYTU=
+		hZRQFtF2AN3D1zhjEravZpOCXs8=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oEeQqkl2copefkw+3grOz55joYrAK7X/SGSpbQw036w=
+			</data>
+		</dict>
 		<key>Resources/README.md</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RzzND+bvXaPZLyjaZPyfVs1TR5Ffm+YU10UUYnrFZKk=
+			OIDabTxjMpm74gPaaAzfAUMif496Zb6DlEZFRPfnks0=
 			</data>
 		</dict>
 	</dict>
