@@ -108,7 +108,7 @@ class Stream: Object {
         let image = CIImage(cgImage: imageRef)
         let filter = CIFilter(name: "CIPixellate")!
         filter.setValue(image, forKey: kCIInputImageKey)
-        filter.setValue(7, forKey: kCIInputScaleKey)
+        filter.setValue(10, forKey: kCIInputScaleKey)
         let outputImage = filter.outputImage!
         
         let pixellatedImageRef = context.createCGImage(outputImage, from: outputImage.extent)!
