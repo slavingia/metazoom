@@ -4,5 +4,6 @@ A virtual camera plugin to pixellatedly share your screen. See LICENSE.md for cr
 
 ## How to run
 
+* Download this repository
 * Copy MetaZoom.plugin into `/Library/CoreMediaIO/Plug-Ins/DAL`
-* Restart Zoom, Chrome, etc... for it to take effect
+* Restart Zoom/Chrome/etc for it to take effect
